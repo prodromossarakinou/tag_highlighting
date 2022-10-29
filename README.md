@@ -1,7 +1,11 @@
 # tag_highlighting
 
+This is a copy of the official [tag_highlighting](https://pub.dev/packages/tag_highlighting) package. I copied it just to adjust few things and use it. I have no intention of making any type of profit out of this code-source.
+
 A Flutter package that allows you to highlight certain parts of a text using tags (like in HTML).
 This package should only be used to apply different styles to parts of text. If you want more functionality, refer to styled_text package.
+
+
 
 ## Description
 
